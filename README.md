@@ -18,6 +18,7 @@ The database stores information within the company as well as its operations, in
 ●	Entities are capitalised in the first word. In most cases, the attributes are prefixed with parts of the table's name unless the attribute is referencing another table.  
 ●	The strong entities are in blue.  
 ●	The weak entities are in white.  
-![image](https://github.com/dtquyen1199/Data/assets/88473863/77381909-0a51-4f1e-a907-faa7b56b5209)
-![image](https://github.com/dtquyen1199/Data/assets/88473863/b0381cf0-defc-4099-aac3-03e0a6da36c1)
+![image](https://github.com/dtquyen1199/Data/assets/88473863/20cfe67c-3f13-4aee-bace-a0c15d91264c)
+![image](https://github.com/dtquyen1199/Data/assets/88473863/a03260d3-e20f-4277-bebd-ad0717c408dd)
+
 
